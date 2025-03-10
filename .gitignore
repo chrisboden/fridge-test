@@ -1,0 +1,45 @@
+# KiCad backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+_autosave-*
+
+# KiCad cache and rescue files
+*-cache.lib
+*-rescue.lib
+*-rescue.dcm
+*-cache.dcm
+*-rescue.kicad_sym
+
+# KiCad generated files
+*.net
+fp-info-cache
+
+# KiCad footprint cache
+fp-lib-table
+
+# KiCad 3D model cache
+3d-models/
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses 
